@@ -6,4 +6,4 @@ Kelas: PBP F
 
 Hobi: Tidur
 
-Jurusan: Ilmu Komputer
+Jurusan: Ilmu Komputer tidak kki
